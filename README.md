@@ -45,7 +45,7 @@ The page is filled with necessary content to demonstrate a complete, professiona
     ```
 2.  **Navigate to the Directory:**
     ```bash
-    cd skillcraft-website
+    cd sct_wd_1
     ```
 3.  **Open:** Simply double-click the `index.html` file in your file browser, or open it with your preferred web browser.
 
